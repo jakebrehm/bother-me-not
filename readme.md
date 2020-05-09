@@ -21,12 +21,13 @@ This is all fine and dandy, but my family doesn't seem to know when it's okay to
 ## How can I make it myself?
 
 Other than the basics (jumper wires, breadboard, etc.), you're going to need some components:
-- **2x** Arduino Uno
-- **2x** nRF24L01
-- **3x** Momentary switches, preferably of different colors
-- **3x** LEDs, preferably of different colors
+- **2x** [Arduino Unos](https://www.amazon.com/gp/product/B008GRTSV6/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
+- **2x** [NRF24L01 Wireless Transceivers](https://www.amazon.com/gp/product/B07SGJ8CM5/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
+- ***2x** [NRF24L01 Breakout Adapters](https://www.amazon.com/Makerfire-NRF24L01-Breakout-Regulator-Wireless/dp/B01IK9GCPE/ref=sr_1_2?crid=WBRA0JAS5J23&dchild=1&keywords=nrf24l01+adapter&qid=1588989619&s=electronics&sprefix=nrf24l01+ada%2Celectronics%2C152&sr=1-2) (optional)*
+- **3x** [Momentary switches](https://www.amazon.com/gp/product/B01E38OS7K/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1), preferably of different colors
+- **3x** [LEDs](https://www.amazon.com/gp/product/B0739RYXVC/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1), preferably of different colors
 
-Here are some schematics so that you can make your own.
+Here are some schematics so that you can make your own:
 
 <p align="center">
   <img src="https://github.com/jakebrehm/bother-me-not/blob/master/img/transmitter_schematic.png" alt="Transmitter Schematic"/>
