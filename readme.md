@@ -6,9 +6,9 @@
 
 ## What does it do?
 
-One arduino handles three different LEDs, and it communicates wirelessly with a second arduino which handles button presses.
+One arduino handles three different LEDs, and it communicates wirelessly with a second arduino that handles button presses.
 
-I am able to switch between the LEDs, which are colored similarly to a traffic light, by pressing their corresponding button.
+One can switch between the LEDs, which are colored similarly to a traffic light, by pressing their corresponding button.
 
 The green LED indicates that it's okay to be bother me, yellow implies that you should enter at your own risk, and red means not to enter under any circumstance.
 
@@ -16,7 +16,7 @@ The green LED indicates that it's okay to be bother me, yellow implies that you 
 
 Due to a ton of things happening at the same time - most notably, the COVID-19 pandemic - I'm temporarily working from my parent's house.
 
-This is all fine and dandy, but my family doesn't seem to know when it's okay to bother me; I don't need people walking in on me during a call. This is why I decided to come up with a way to tell people when they shouldn't enter my room.
+This is all fine and dandy, but my family doesn't seem to understand the concept of personal space. Hence, the Bother Me Not™ was born.
 
 ## How can I make it myself?
 
@@ -27,7 +27,7 @@ Other than the basics (jumper wires, breadboard, etc.), you're going to need som
 - **3x** [Momentary switches](https://www.amazon.com/gp/product/B01E38OS7K/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1), preferably of different colors
 - **3x** [LEDs](https://www.amazon.com/gp/product/B0739RYXVC/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1), preferably of different colors
 
-Here are some schematics so that you can make your own:
+Here are some schematics so that you can make your own Bother Me Not™:
 
 <p align="center">
   <img src="https://github.com/jakebrehm/bother-me-not/blob/master/img/transmitter_schematic.png" alt="Transmitter Schematic"/>
@@ -40,7 +40,7 @@ Here are some schematics so that you can make your own:
 ## Future plans for this project
 
 - Get rid of the jumpers and replace them with shorter, soldered wires
-- 3D print a casing for bother arduinos
+- 3D print a casing for both arduinos
 - Power the arduinos externally, perhaps with batteries
 - Actually deploy the project
 
